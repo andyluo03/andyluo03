@@ -1,4 +1,4 @@
-Hi! My name is Andy Luo and I am a student and researcher at the University of Iowa.
+Andy Luo - CS @ UIowa, Competitive Programming, Professional Brick
 
 Contact me at: andyluo918@gmail.com
 <!---
