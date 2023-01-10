@@ -1,4 +1,4 @@
-Andy Luo - CS @ UIowa, Competitive Programming, Professional Brick
+Andy Luo - CS @ UIowa, Incoming SWE Intern @ Roblox
 
 Contact me at: andyluo918@gmail.com
 <!---
