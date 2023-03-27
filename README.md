@@ -1,7 +1,6 @@
 ## 👋 Hello, I'm Andy!
 
 **Experience**
-- 🎮 Incoming SWE Intern @ Roblox (Summer '23)
 - 🔍 HCI Researcher @ UIowa (Current)
 - 🌐 CSSI Scholar @ Google (Summer '22)
 
