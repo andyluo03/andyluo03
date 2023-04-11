@@ -1,14 +1,13 @@
 ## 👋 Hello, I'm Andy!
 
 **Experience**
+- 🎮 SWE Intern @ Roblox (Fall '23)
+- 💾 STEP Intern @ Google (Summer '23)
 - 🔍 HCI Researcher @ UIowa (Current)
 - 🌐 CSSI Scholar @ Google (Summer '22)
 
 **About Me**
 - 🧱 Occasional Competitive Programmer 
-- ☁️ Playing with AWS and Nginx
-- 📘 Learning to be an opensource contributor
-
 
 📪 Contact me at: andyluo918@gmail.com
 <!---
