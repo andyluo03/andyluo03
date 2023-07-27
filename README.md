@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Andy!
 
-I am interested in everything computer science!
+I am a computer science student at Illinois, interested in making things go fast. 
 
 📪 Contact me at: andyluo918@gmail.com
 <!---
