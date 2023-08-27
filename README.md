@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Andy!
 
-I am a computer science student at Illinois. Interested in making things go fast. 
+I am a computer science student at Illinois interning at Roblox, previously at Google. Interested in making things go fast. 
 
 📪 Contact me at: andyluo918@gmail.com
 <!---
